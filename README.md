@@ -7,4 +7,4 @@ Code Embed component is an alternate solution for AEM Core Embed Component
 
 BLog Link: 
 
-![AEM Code Embed Component](https://drive.google.com/uc?export=view&id=1lJWM-mloQxXLGyO73fkyJa2XvBRH3aYT)
+![Beyond Embed Component: Integrate Web Code Editor](https://blogs.perficient.com/2021/08/09/beyond-embed-component-integrate-web-code-editor/)
